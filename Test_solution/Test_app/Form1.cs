@@ -22,7 +22,7 @@ namespace Test_app
             MessageBox.Show("Hello World!");
             MessageBox.Show("I'm hotfix");
             MessageBox.Show("I'm master");
-            MessageBox.Show("I want to pull!");
+            MessageBox.Show("I want to pull!!");
         }
     }
 }
